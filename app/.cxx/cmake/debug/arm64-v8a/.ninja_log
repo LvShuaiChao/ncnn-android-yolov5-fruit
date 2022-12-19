@@ -1,0 +1,3 @@
+# ninja log v5
+1	1168	693152588	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	da4d1713f58316e3
+1170	1522	693152589	E:/Documents/Desktop/NCNN/ncnn-android-yolov5-fruit/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	f95570159c0d625b

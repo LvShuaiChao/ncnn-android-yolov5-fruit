@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\compiler_id.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\platforms.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\.cxx\\cmake\\debug\\arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "E:\\Documents\\Desktop\\NCNN\\ncnn-android-yolov5-fruit\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libyolov5ncnn.so"
+    }
+  }
+}

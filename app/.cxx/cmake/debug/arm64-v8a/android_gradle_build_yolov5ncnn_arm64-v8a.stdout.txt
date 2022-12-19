@@ -1,0 +1,10 @@
+ninja: Entering directory `E:\Documents\Desktop\NCNN\ncnn-android-yolov5-fruit\app\.cxx\cmake\debug\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o
+[2/2] Linking CXX shared library E:\Documents\Desktop\NCNN\ncnn-android-yolov5-fruit\app\build\intermediates\cmake\debug\obj\arm64-v8a\libyolov5ncnn.so
+
+E:\Documents\Desktop\NCNN\ncnn-android-yolov5-fruit\app\.cxx\cmake\debug\arm64-v8a>set http_proxy=http://127.0.0.1:7890 
+
+E:\Documents\Desktop\NCNN\ncnn-android-yolov5-fruit\app\.cxx\cmake\debug\arm64-v8a>set https_proxy=http://127.0.0.1:7890 
+
+E:\Documents\Desktop\NCNN\ncnn-android-yolov5-fruit\app\.cxx\cmake\debug\arm64-v8a>cls
+

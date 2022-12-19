@@ -1,0 +1,7 @@
+Executable : C:\Users\Lenovo\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\Documents\Desktop\NCNN\ncnn-android-yolov5-fruit\app\.cxx\cmake\debug\armeabi-v7a
+yolov5ncnn
+jvmArgs : 
+
